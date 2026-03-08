@@ -14,7 +14,7 @@
 
 <br/>
 
-Perspective is an <i>interactive</i> analytics and data visualization component,
+Perspective is  an <i>interactive</i> analytics and data visualization component,
 which is especially well-suited for <i>large</i> and/or <i>streaming</i>
 datasets. Use it to create user-configurable reports, dashboards, notebooks and
 applications#.
